@@ -3,7 +3,7 @@ import random
 import re
 import networkx as nx
 import matplotlib.pyplot as plt
-
+#B2
 class DirectedGraph:
     def __init__(self):
         self.graph = {}
